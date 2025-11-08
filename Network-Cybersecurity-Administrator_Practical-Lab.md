@@ -13,7 +13,7 @@ The network includes four VLANs for different departments (Admin, Accounts, Comm
   - DNS/HTTP server on external link (209.165.100.0/24)
   - SSH access
 
-![alt text]([https://github.com/jmoreira01/Networking/blob/main/pratical_lab_topology.png)
+![alt text](https://github.com/jmoreira01/Networking/blob/main/pratical_lab_topology.png)
 
 ## 🏗️ Network Topology
 - **Router (RCENTRAL)**: Connected to SWCENTRAL via G0/0 (trunk for subinterfaces); G0/1 to external server.
