@@ -81,3 +81,8 @@ The network connects multiple PCs and a laptop via switches, as per the provided
 **At the end**:
 
 * DHCP Requesting - IP configuration > Desktop > IP Configuration > Request DHCP
+
+## 📚 CESAE DIGITAL – Centro para o Desenvolvimento de Competências Digitais
+ - Course: Network & Cyber-Security Administrator
+ - Unit: IP Addressing e Network Infrastructure
+ - Instructor: Pedro Pereira
